@@ -1,0 +1,214 @@
+{"prompt":"What is the average revenue per transaction in the United Kingdom?","completion":" The average revenue per transaction in the United Kingdom is 20.15 USD."}
+{"prompt":"Which was the top-selling product in December?","completion":" The top-selling product in December was 'WHITE HANGING HEART T-LIGHT HOLDER' with 300 units sold."}
+{"prompt":"What was the total revenue generated in France in December?","completion":" The total revenue generated in France in December was 7,850 USD."}
+{"prompt":"How many unique customers made purchases in November?","completion":" In November, there were 1,200 unique customers who made purchases."}
+{"prompt":"What was the average price of items sold in the category 'home decor'?","completion":" The average price of items in the 'home decor' category was 12.75 USD."}
+{"prompt":"How many transactions were made in Germany?","completion":" A total of 2,300 transactions were made in Germany."}
+{"prompt":"Who was the most frequent customer in October?","completion":" The most frequent customer in October was customer ID 12345 with 18 purchases."}
+{"prompt":"Based on historical data, what is the projected revenue for the United Kingdom next December considering a 10% annual growth?","completion":" Given the historical revenue growth and assuming a 10% increase, the projected revenue for the United Kingdom in December is approximately 88,000 USD."}
+{"prompt":"Is there a significant correlation between product price and quantity sold across different categories?","completion":" There is a moderate negative correlation (-0.35) between product price and quantity sold, indicating that as prices decrease, the quantity sold tends to increase, especially in the 'home decor' and 'gifts' categories."}
+{"prompt":"Can you identify high-value customer segments based on purchasing behavior and total revenue?","completion":" High-value customer segments include those from the United Kingdom, primarily in the 'gifts' category, with an average transaction value over 200 USD and frequency above 5 purchases per month."}
+{"prompt":"Which products have the highest conversion rates in Germany compared to other countries?","completion":" In Germany, 'WOODEN FRAME LARGE' and 'SET OF 3 HANGING HEART T-LIGHT HOLDERS' have the highest conversion rates at 15% and 13%, significantly higher than the average across other countries."}
+{"prompt":"What are the projected top-selling products in December based on past seasonal demand?","completion":" Projected top-selling products in December are 'Christmas Craft Kit' and 'Gift Wrapping Paper Set', with demand expected to increase by 20% compared to November based on previous seasonal trends."}
+{"prompt":"What are the common characteristics of abandoned transactions, and how do they compare to completed transactions?","completion":" Abandoned transactions tend to have higher-value items, an average cart size of 120 USD, and are often from first-time visitors. In contrast, completed transactions average 75 USD and show higher completion rates among returning customers."}
+{"prompt":"Which customers should be targeted in a retention campaign based on recent purchasing frequency and revenue contribution?","completion":" Customers with IDs 14532, 27654, and 19875 have shown declining frequency over the past 3 months but contributed over 500 USD in revenue, making them prime candidates for a retention campaign."}
+{"prompt":"What was the average revenue per transaction in Germany?","completion":" The average revenue per transaction in Germany is 25.40 USD."}
+{"prompt":"How many unique customers made purchases in January?","completion":" In January, there were 1,100 unique customers who made purchases."}
+{"prompt":"What is the average quantity of items sold per transaction in the 'electronics' category?","completion":" The average quantity of items sold per transaction in the 'electronics' category is 2.4."}
+{"prompt":"Which country had the highest total revenue in February?","completion":" The country with the highest total revenue in February was the United Kingdom with 10,500 USD."}
+{"prompt":"What was the total revenue generated in Italy in August?","completion":" The total revenue generated in Italy in August was 6,200 USD."}
+{"prompt":"Which was the least popular product in November?","completion":" The least popular product in November was 'Red Ceramic Mug' with only 5 units sold."}
+{"prompt":"How many transactions were made in the 'fashion' category in June?","completion":" A total of 1,500 transactions were made in the 'fashion' category in June."}
+{"prompt":"What is the projected increase in sales for the 'home decor' category next quarter?","completion":" Based on historical data, sales for the 'home decor' category are projected to increase by 15% next quarter."}
+{"prompt":"How many transactions were completed by repeat customers in March?","completion":" In March, there were 800 transactions completed by repeat customers."}
+{"prompt":"What was the total revenue generated by high-value customers in July?","completion":" High-value customers generated a total of 9,200 USD in revenue in July."}
+{"prompt":"What is the average number of items per transaction for first-time buyers?","completion":" First-time buyers purchase an average of 3 items per transaction."}
+{"prompt":"Which product category has the highest average transaction value?","completion":" The product category with the highest average transaction value is 'luxury goods', with an average of 150 USD per transaction."}
+{"prompt":"Who was the highest-spending customer in May?","completion":" The highest-spending customer in May was customer ID 67890, with total spending of 1,500 USD."}
+{"prompt":"What is the trend in sales for the 'toys' category over the last year?","completion":" The 'toys' category has seen a 20% increase in sales over the last year."}
+{"prompt":"Which products are most frequently abandoned in the cart by customers?","completion":" The products most frequently abandoned in the cart are 'Wireless Headphones' and 'Portable Charger'."}
+{"prompt":"What is the average conversion rate for the 'gifts' category?","completion":" The average conversion rate for the 'gifts' category is 10%."}
+{"prompt":"How many transactions were made by customers from the United States in September?","completion":" Customers from the United States made 1,200 transactions in September."}
+{"prompt":"What was the total revenue generated in the 'books' category in December?","completion":" The total revenue generated in the 'books' category in December was 5,000 USD."}
+{"prompt":"How does the average purchase value of first-time buyers compare to that of repeat buyers?","completion":" The average purchase value of first-time buyers is 30 USD, while repeat buyers have an average purchase value of 50 USD."}
+{"prompt":"What are the most popular products among customers aged 25-34?","completion":" The most popular products among customers aged 25-34 are 'Smartphones' and 'Noise-Cancelling Headphones'."}
+{"prompt":"What is the average revenue per transaction in Spain?","completion":" The average revenue per transaction in Spain is 22.80 USD."}
+{"prompt":"Which month had the highest number of transactions?","completion":" December had the highest number of transactions, with a total of 3,500."}
+{"prompt":"What was the total revenue generated in the 'outdoor' category in April?","completion":" The total revenue generated in the 'outdoor' category in April was 3,400 USD."}
+{"prompt":"How many unique customers made purchases in the 'gadgets' category?","completion":" There were 900 unique customers who made purchases in the 'gadgets' category."}
+{"prompt":"What is the average quantity of 'gaming consoles' sold per transaction?","completion":" The average quantity of 'gaming consoles' sold per transaction is 1.2."}
+{"prompt":"Which was the top-selling product in the 'kitchenware' category?","completion":" The top-selling product in the 'kitchenware' category was 'Ceramic Dinner Set' with 450 units sold."}
+{"prompt":"How many transactions involved discounts in October?","completion":" In October, 700 transactions involved discounts."}
+{"prompt":"What are the projected sales for 'health & wellness' products in the next month?","completion":" The projected sales for 'health & wellness' products in the next month are estimated to be 12,000 USD."}
+{"prompt":"What was the revenue contribution of the top 5% of customers in Q1?","completion":" The top 5% of customers contributed 40,000 USD in revenue in Q1."}
+{"prompt":"How many unique visitors to the site made a purchase in August?","completion":" In August, 8,500 unique visitors to the site made a purchase."}
+{"prompt":"What is the most common item in abandoned carts?","completion":" The most common item in abandoned carts is 'Bluetooth Speaker'."}
+{"prompt":"Which region has the highest average transaction value?","completion":" The region with the highest average transaction value is North America, with an average of 85 USD per transaction."}
+{"prompt":"What are the top three reasons for abandoned transactions?","completion":" The top three reasons for abandoned transactions are high shipping costs, lack of payment options, and delayed delivery times."}
+{"prompt":"How many unique products were sold in the 'accessories' category in July?","completion":" A total of 320 unique products were sold in the 'accessories' category in July."}
+{"prompt":"What was the highest single transaction value in April?","completion":" The highest single transaction value in April was 1,200 USD."}
+{"prompt":"Which products saw the highest increase in sales during the holiday season?","completion":" The products with the highest increase in sales during the holiday season were 'Gift Boxes' and 'Holiday-Themed Mugs'."}
+{"prompt":"How many high-value transactions (above 500 USD) were made in May?","completion":" There were 65 high-value transactions (above 500 USD) in May."}
+{"prompt":"Which category had the highest customer retention rate in Q3?","completion":" The category with the highest customer retention rate in Q3 was 'electronics' with a retention rate of 30%."}
+{"prompt":"What is the projected revenue growth for the 'sports' category next year?","completion":" The projected revenue growth for the 'sports' category next year is 12%."}
+{"prompt":"Which products have a seasonal demand spike in summer?","completion":" Products with a seasonal demand spike in summer include 'Sunglasses' and 'Beach Towels'."}
+{"prompt":"How many transactions were made by customers who previously abandoned their cart?","completion":" Customers who previously abandoned their cart made 300 transactions."}
+{"prompt":"What is the most common category purchased by new customers?","completion":" The most common category purchased by new customers is 'gadgets'."}
+{"prompt":"Which category had the lowest average transaction value in Q2?","completion":" The category with the lowest average transaction value in Q2 was 'stationery' with an average of 5 USD per transaction."}
+{"prompt":"What percentage of transactions in March included a discount?","completion":" Approximately 30% of transactions in March included a discount."}
+{"prompt":"How many products were launched in the 'fashion' category last year?","completion":" Last year, 50 new products were launched in the 'fashion' category."}
+{"prompt":"What was the average time between a customer's first and second purchase?","completion":" The average time between a customer's first and second purchase is 15 days."}
+{"prompt":"Which month has the highest average purchase frequency per customer?","completion":" The month with the highest average purchase frequency per customer is December."}
+{"prompt":"What was the most popular product among customers aged 18-24 in Q1?","completion":" The most popular product among customers aged 18-24 in Q1 was 'Portable Bluetooth Speaker'."}
+{"prompt":"What percentage of high-value customers made a purchase in the last month?","completion":" Approximately 60% of high-value customers made a purchase in the last month."}
+{"prompt":"How many products had zero sales in September?","completion":" In September, 15 products had zero sales."}
+{"prompt":"What was the return rate for products in the 'gadgets' category in Q4?","completion":" The return rate for products in the 'gadgets' category in Q4 was 8%."}
+{"prompt":"How many transactions were made by customers who haven't purchased in the last 6 months?","completion":" A total of 500 transactions were made by customers who haven't purchased in the last 6 months."}
+{"prompt":"Which region generated the most revenue from mobile purchases?","completion":" The region that generated the most revenue from mobile purchases is North America."}
+{"prompt":"What is the average number of products per order in the 'gifts' category?","completion":" The average number of products per order in the 'gifts' category is 4."}
+{"prompt":"What is the most popular payment method among customers aged 35-44?","completion":" The most popular payment method among customers aged 35-44 is credit card."}
+{"prompt":"How many products have a conversion rate above 20%?","completion":" There are 25 products with a conversion rate above 20%."}
+{"prompt":"Which product had the highest increase in return rate in Q3?","completion":" The product with the highest increase in return rate in Q3 was 'Wireless Earbuds'."}
+{"prompt":"How does the average revenue per customer compare between Europe and Asia?","completion":" The average revenue per customer in Europe is 75 USD, while in Asia it is 60 USD."}
+{"prompt":"What is the average time spent on the website by customers who make a purchase?","completion":" Customers who make a purchase spend an average of 10 minutes on the website."}
+{"prompt":"How many unique products are available in the 'home office' category?","completion":" There are 120 unique products available in the 'home office' category."}
+{"prompt":"Which day of the week has the highest sales volume?","completion":" The day of the week with the highest sales volume is Saturday."}
+{"prompt":"What was the most common reason for returns in January?","completion":" The most common reason for returns in January was 'product not as described'."}
+{"prompt":"How many customers made purchases both online and in-store in December?","completion":" In December, 300 customers made purchases both online and in-store."}
+{"prompt":"What is the average transaction value for orders placed during holiday sales?","completion":" The average transaction value for orders placed during holiday sales is 55 USD."}
+{"prompt":"What was the most frequently purchased item during the last Black Friday sale?","completion":" The most frequently purchased item during the last Black Friday sale was 'Wireless Headphones'."}
+{"prompt":"How many transactions were made by customers in the loyalty program in April?","completion":" Customers in the loyalty program made 1,200 transactions in April."}
+{"prompt":"What percentage of transactions in the 'electronics' category are made by returning customers?","completion":" Approximately 40% of transactions in the 'electronics' category are made by returning customers."}
+{"prompt":"Which product category has the fastest-growing sales in the last 6 months?","completion":" The 'fitness' category has the fastest-growing sales in the last 6 months."}
+{"prompt":"How many products were sold with expedited shipping in February?","completion":" In February, 500 products were sold with expedited shipping."}
+{"prompt":"What is the average return rate for products in the 'home decor' category?","completion":" The average return rate for products in the 'home decor' category is 5%."}
+{"prompt":"What was the highest single order value placed in December?","completion":" The highest single order value placed in December was 2,000 USD."}
+{"prompt":"Which category has the most seasonal variation in sales?","completion":" The category with the most seasonal variation in sales is 'outdoor equipment'."}
+{"prompt":"How many customers used promo codes in March?","completion":" A total of 700 customers used promo codes in March."}
+{"prompt":"What was the average delivery time for orders in June?","completion":" The average delivery time for orders in June was 3 days."}
+{"prompt":"How many customers have more than 5 transactions in the past year?","completion":" There are 1,000 customers with more than 5 transactions in the past year."}
+{"prompt":"What is the top-selling item among customers aged 45-54?","completion":" The top-selling item among customers aged 45-54 is 'Smartwatch'."}
+{"prompt":"Which product has the highest customer satisfaction rating?","completion":" The product with the highest customer satisfaction rating is 'Wireless Charger'."}
+{"prompt":"How does the average order size compare between desktop and mobile purchases?","completion":" The average order size for desktop purchases is 70 USD, while for mobile purchases it is 65 USD."}
+{"prompt":"How many customers subscribed to the newsletter in August?","completion":" In August, 500 customers subscribed to the newsletter."}
+{"prompt":"What was the highest average order value by region in Q2?","completion":" The region with the highest average order value in Q2 was Europe with an average of 80 USD per order."}
+{"prompt":"Which products tend to be purchased together most frequently?","completion":" 'Phone Case' and 'Screen Protector' tend to be purchased together most frequently."}
+{"prompt":"How many new customers made purchases in January?","completion":" In January, 800 new customers made purchases."}
+{"prompt":"What is the average cart abandonment rate across all categories?","completion":" The average cart abandonment rate across all categories is 35%."}
+{"prompt":"Which categories are most popular among customers with high purchase frequency?","completion":" The categories most popular among customers with high purchase frequency are 'gadgets' and 'home essentials'."}
+{"prompt":"What is the average customer lifetime value in the 'beauty' category?","completion":" The average customer lifetime value in the 'beauty' category is 200 USD."}
+{"prompt":"How many orders were shipped internationally in July?","completion":" In July, 1,200 orders were shipped internationally."}
+{"prompt":"Which day of the month has the highest order volume on average?","completion":" The last day of the month has the highest order volume on average."}
+{"prompt":"What is the projected revenue growth for the next fiscal quarter based on current trends?","completion":" The projected revenue growth for the next fiscal quarter is 8% based on current trends."}
+{"prompt":"What is the top-selling item in the 'kitchen' category among first-time buyers?","completion":" The top-selling item in the 'kitchen' category among first-time buyers is 'Stainless Steel Knife Set'."}
+{"prompt":"How many orders were returned within 30 days of purchase?","completion":" A total of 600 orders were returned within 30 days of purchase."}
+{"prompt":"What percentage of customers in the 'loyalty program' made repeat purchases in Q1?","completion":" Approximately 70% of customers in the 'loyalty program' made repeat purchases in Q1."}
+{"prompt":"Which products have the highest profit margins?","completion":" The products with the highest profit margins are 'Designer Sunglasses' and 'Luxury Wallet'."}
+{"prompt":"What is the average revenue per user for customers who purchased in the 'outdoor' category?","completion":" The average revenue per user for customers who purchased in the 'outdoor' category is 80 USD."}
+{"prompt":"How many products are backordered in the 'electronics' category?","completion":" There are 20 products backordered in the 'electronics' category."}
+{"prompt":"Which time of day has the highest conversion rate for mobile purchases?","completion":" The time of day with the highest conversion rate for mobile purchases is 8 PM."}
+{"prompt":"What is the percentage of high-value customers among all active customers?","completion":" High-value customers make up approximately 15% of all active customers."}
+{"prompt":"Which region had the lowest average order value in January?","completion":" The region with the lowest average order value in January was South America, with an average of 20 USD per order."}
+{"prompt":"How many transactions in February included items from both the 'electronics' and 'toys' categories?","completion":" In February, 300 transactions included items from both the 'electronics' and 'toys' categories."}
+{"prompt":"What is the average shipping cost for international orders?","completion":" The average shipping cost for international orders is 15 USD."}
+{"prompt":"What was the total revenue from the top 5 selling products in November?","completion":" The total revenue from the top 5 selling products in November was 12,000 USD."}
+{"prompt":"How many times was the product 'Eco-friendly Water Bottle' purchased in Q3?","completion":" The 'Eco-friendly Water Bottle' was purchased 1,500 times in Q3."}
+{"prompt":"Which product has the longest average delivery time?","completion":" The product with the longest average delivery time is 'Outdoor Patio Set', with an average of 10 days."}
+{"prompt":"What percentage of orders were shipped within 24 hours of purchase?","completion":" Approximately 40% of orders were shipped within 24 hours of purchase."}
+{"prompt":"What is the return rate for products purchased during flash sales?","completion":" The return rate for products purchased during flash sales is 12%."}
+{"prompt":"Which product category had the highest discount usage in April?","completion":" The product category with the highest discount usage in April was 'beauty', with discounts applied to 70% of purchases."}
+{"prompt":"How many customers placed orders in both the 'fitness' and 'outdoor' categories in Q1?","completion":" In Q1, 400 customers placed orders in both the 'fitness' and 'outdoor' categories."}
+{"prompt":"What is the average lifetime spend of a customer who purchases 'premium electronics'?","completion":" The average lifetime spend of a customer who purchases 'premium electronics' is 500 USD."}
+{"prompt":"Which country has the highest average basket size?","completion":" The country with the highest average basket size is Australia, with an average of 5 items per basket."}
+{"prompt":"What is the most common shipping method among customers in Europe?","completion":" The most common shipping method among customers in Europe is standard ground shipping."}
+{"prompt":"How does the return rate of high-priced items compare to that of low-priced items?","completion":" High-priced items have a return rate of 8%, while low-priced items have a return rate of 3%."}
+{"prompt":"How many customers made their first purchase in the 'back to school' season?","completion":" During the 'back to school' season, 1,200 customers made their first purchase."}
+{"prompt":"Which time of day has the highest checkout abandonment rate?","completion":" The time of day with the highest checkout abandonment rate is 2 PM."}
+{"prompt":"What was the average order value for purchases made via mobile in June?","completion":" The average order value for purchases made via mobile in June was 45 USD."}
+{"prompt":"What percentage of all orders in the 'electronics' category were above 100 USD?","completion":" About 25% of all orders in the 'electronics' category were above 100 USD."}
+{"prompt":"How many customers purchased a gift card in the last quarter?","completion":" In the last quarter, 600 customers purchased a gift card."}
+{"prompt":"Which region had the highest sales increase compared to the previous quarter?","completion":" The region with the highest sales increase compared to the previous quarter was Southeast Asia, with a 20% growth."}
+{"prompt":"How many products had a stock-out event in the past month?","completion":" In the past month, 30 products had a stock-out event."}
+{"prompt":"What is the average number of repeat purchases by loyalty program members?","completion":" Loyalty program members make an average of 4 repeat purchases."}
+{"prompt":"How many customers from the 'sports' segment have made purchases this year?","completion":" This year, 1,500 customers from the 'sports' segment have made purchases."}
+{"prompt":"What was the most popular product for Father's Day promotions?","completion":" The most popular product for Father's Day promotions was 'Leather Wallet'."}
+{"prompt":"Which products had a significant increase in sales during the back-to-school season?","completion":" Products with a significant increase in sales during the back-to-school season include 'Backpack' and 'Stationery Kit'."}
+{"prompt":"What is the most commonly purchased item with 'laptop' in the same order?","completion":" The most commonly purchased item with 'laptop' in the same order is 'Laptop Sleeve'."}
+{"prompt":"What is the average customer age for purchases in the 'kids' category?","completion":" The average customer age for purchases in the 'kids' category is 32."}
+{"prompt":"How many customers in the 'fashion' segment made purchases over 300 USD in January?","completion":" In January, 200 customers in the 'fashion' segment made purchases over 300 USD."}
+{"prompt":"What percentage of purchases in November included at least one item on sale?","completion":" Approximately 50% of purchases in November included at least one item on sale."}
+{"prompt":"How many transactions were made with a loyalty discount applied?","completion":" There were 900 transactions made with a loyalty discount applied."}
+{"prompt":"Which age group has the highest average order value?","completion":" The age group with the highest average order value is 45-54 years."}
+{"prompt":"How many items were purchased from the 'eco-friendly' category last quarter?","completion":" Last quarter, 2,300 items were purchased from the 'eco-friendly' category."}
+{"prompt":"What percentage of returning customers make a purchase within 30 days of their last order?","completion":" Approximately 40% of returning customers make a purchase within 30 days of their last order."}
+{"prompt":"Which product has the most positive reviews in the 'home appliances' category?","completion":" The product with the most positive reviews in the 'home appliances' category is 'Air Fryer'."}
+{"prompt":"What was the average discount rate applied to orders in March?","completion":" The average discount rate applied to orders in March was 10%."}
+{"prompt":"How many customers from Canada made purchases in December?","completion":" In December, 800 customers from Canada made purchases."}
+{"prompt":"What is the average transaction size for orders placed on weekends?","completion":" The average transaction size for orders placed on weekends is 70 USD."}
+{"prompt":"Which products had a spike in searches but not in purchases?","completion":" 'Wireless Earbuds' and 'Smart Home Lights' had a spike in searches but not in purchases."}
+{"prompt":"How many customers abandoned their cart with items from the 'outdoor' category?","completion":" A total of 350 customers abandoned their cart with items from the 'outdoor' category."}
+{"prompt":"What is the average lifetime value of a customer who makes repeat purchases?","completion":" The average lifetime value of a customer who makes repeat purchases is 400 USD."}
+{"prompt":"What percentage of purchases are made by customers aged 25-34?","completion":" Customers aged 25-34 make up approximately 30% of purchases."}
+{"prompt":"Which category has the highest conversion rate from ad clicks?","completion":" The category with the highest conversion rate from ad clicks is 'fitness equipment'."}
+{"prompt":"How many customers from the loyalty program placed orders in the last 6 months?","completion":" In the last 6 months, 1,200 customers from the loyalty program placed orders."}
+{"prompt":"What is the average revenue per visit for customers from the United States?","completion":" The average revenue per visit for customers from the United States is 2 USD."}
+{"prompt":"How many customers placed orders after viewing a product video?","completion":" Approximately 500 customers placed orders after viewing a product video."}
+{"prompt":"Which products have the highest add-to-cart rates but low conversion rates?","completion":" 'Bluetooth Speaker' and 'Smart Thermostat' have high add-to-cart rates but low conversion rates."}
+{"prompt":"What percentage of orders include gift wrapping?","completion":" About 15% of orders include gift wrapping."}
+{"prompt":"How many times was the 'limited edition' collection purchased in the last quarter?","completion":" The 'limited edition' collection was purchased 800 times in the last quarter."}
+{"prompt":"Which regions show the most interest in eco-friendly products?","completion":" The regions showing the most interest in eco-friendly products are North America and Europe."}
+{"prompt":"What is the average order value for repeat customers compared to new customers?","completion":" The average order value for repeat customers is 75 USD, compared to 50 USD for new customers."}
+{"prompt":"How many items from the 'seasonal' category were sold in Q4?","completion":" In Q4, 5,000 items from the 'seasonal' category were sold."}
+{"prompt":"Which category has the lowest customer satisfaction rating?","completion":" The category with the lowest customer satisfaction rating is 'fitness equipment'."}
+{"prompt":"What is the percentage of customers who made a purchase within 24 hours of visiting the site?","completion":" Approximately 35% of customers made a purchase within 24 hours of visiting the site."}
+{"prompt":"How many transactions in Q3 included both a promo code and a free shipping offer?","completion":" In Q3, there were 450 transactions that included both a promo code and a free shipping offer."}
+{"prompt":"Which category has the highest return on investment in advertising?","completion":" The category with the highest return on investment in advertising is 'home decor'."}
+{"prompt":"What is the average review rating for products purchased in the 'baby care' category?","completion":" The average review rating for products in the 'baby care' category is 4.6 out of 5."}
+{"prompt":"How many customers have purchased from the 'clearance' section in the last month?","completion":" In the last month, 600 customers made purchases from the 'clearance' section."}
+{"prompt":"What is the average lifetime spend of customers who purchase only during sales events?","completion":" The average lifetime spend of customers who purchase only during sales events is 120 USD."}
+{"prompt":"Which age group has the highest proportion of first-time buyers?","completion":" The age group with the highest proportion of first-time buyers is 18-24 years."}
+{"prompt":"What is the average order frequency for customers who use mobile devices?","completion":" Customers who use mobile devices have an average order frequency of once every 45 days."}
+{"prompt":"How many orders in December included at least one personalized item?","completion":" In December, 750 orders included at least one personalized item."}
+{"prompt":"Which product category has the most consistent monthly sales?","completion":" The product category with the most consistent monthly sales is 'household essentials'."}
+{"prompt":"What is the average number of items per order for customers in the 'VIP' loyalty tier?","completion":" VIP loyalty tier customers order an average of 5 items per order."}
+{"prompt":"How does the average revenue per transaction compare between weekdays and weekends?","completion":" The average revenue per transaction on weekends is 10% higher than on weekdays."}
+{"prompt":"Which product saw the largest decrease in sales after a price increase?","completion":" The 'Portable Blender' saw the largest decrease in sales after a price increase."}
+{"prompt":"How many customers in the 'premium' segment made more than one purchase last quarter?","completion":" In the last quarter, 850 customers in the 'premium' segment made more than one purchase."}
+{"prompt":"What percentage of all transactions in April were made using a gift card?","completion":" Approximately 8% of all transactions in April were made using a gift card."}
+{"prompt":"What is the most common reason for low ratings in the 'fitness equipment' category?","completion":" The most common reason for low ratings in the 'fitness equipment' category is 'difficulty in assembly'."}
+{"prompt":"How many customers have spent over 500 USD in the 'outdoor furniture' category this year?","completion":" This year, 300 customers have spent over 500 USD in the 'outdoor furniture' category."}
+{"prompt":"Which month has the highest cart abandonment rate?","completion":" The month with the highest cart abandonment rate is November."}
+{"prompt":"What is the average discount applied to orders in the 'fashion accessories' category?","completion":" The average discount applied to orders in the 'fashion accessories' category is 15%."}
+{"prompt":"How many transactions were made by customers who joined in the last 90 days?","completion":" There were 1,200 transactions made by customers who joined in the last 90 days."}
+{"prompt":"Which product had the highest number of customer support inquiries in Q1?","completion":" The product with the highest number of customer support inquiries in Q1 was 'Smart Vacuum Cleaner'."}
+{"prompt":"What is the conversion rate for product recommendations on the checkout page?","completion":" The conversion rate for product recommendations on the checkout page is 5%."}
+{"prompt":"How many purchases were made by customers who have a wishlist?","completion":" A total of 2,000 purchases were made by customers who have a wishlist."}
+{"prompt":"Which products are frequently purchased as bundles in the 'beauty' category?","completion":" 'Face Wash' and 'Moisturizer' are frequently purchased as bundles in the 'beauty' category."}
+{"prompt":"What was the highest revenue generated by a single customer in Q2?","completion":" The highest revenue generated by a single customer in Q2 was 3,200 USD."}
+{"prompt":"How many customers returned more than 3 items last month?","completion":" Last month, 150 customers returned more than 3 items."}
+{"prompt":"What is the average revenue per click for ads promoting 'gadget' items?","completion":" The average revenue per click for ads promoting 'gadget' items is 0.85 USD."}
+{"prompt":"How many customers placed an order after abandoning their cart initially?","completion":" Approximately 400 customers placed an order after initially abandoning their cart."}
+{"prompt":"What is the most common delivery location for orders over 200 USD?","completion":" The most common delivery location for orders over 200 USD is residential addresses."}
+{"prompt":"Which product has the longest shelf life among those in the 'grocery' category?","completion":" 'Canned Tuna' has the longest shelf life among products in the 'grocery' category."}
+{"prompt":"How many loyalty program members made their first purchase this quarter?","completion":" This quarter, 300 loyalty program members made their first purchase."}
+{"prompt":"What percentage of 'home office' purchases are made by returning customers?","completion":" Approximately 55% of 'home office' purchases are made by returning customers."}
+{"prompt":"How many products have been in stock continuously for over a year?","completion":" There are 80 products that have been in stock continuously for over a year."}
+{"prompt":"Which items are most likely to be gifted according to customer surveys?","completion":" 'Scented Candles' and 'Gift Boxes' are most likely to be gifted according to customer surveys."}
+{"prompt":"What is the refund rate for items in the 'premium electronics' category?","completion":" The refund rate for items in the 'premium electronics' category is 4%."}
+{"prompt":"Which region shows the highest engagement with seasonal promotions?","completion":" The region with the highest engagement with seasonal promotions is Europe."}
+{"prompt":"How many products are exclusively available for loyalty program members?","completion":" There are 25 products exclusively available for loyalty program members."}
+{"prompt":"What is the average basket size for orders placed on Cyber Monday?","completion":" The average basket size for orders placed on Cyber Monday is 4 items."}
+{"prompt":"How many transactions included eco-friendly products in the last 6 months?","completion":" In the last 6 months, 1,500 transactions included eco-friendly products."}
+{"prompt":"What is the most common feedback for products priced under 10 USD?","completion":" The most common feedback for products priced under 10 USD is 'good value for money'."}
+{"prompt":"How many items are typically purchased with 'gift cards' during holiday seasons?","completion":" During holiday seasons, an average of 2 items are purchased with each 'gift card'."}
+{"prompt":"What percentage of orders from the 'home decor' category are gift-wrapped?","completion":" Approximately 20% of orders from the 'home decor' category are gift-wrapped."}
+{"prompt":"Which product categories are most popular among customers aged 55+?","completion":" The most popular product categories among customers aged 55+ are 'garden supplies' and 'kitchen appliances'."}
+{"prompt":"What is the average spend per transaction for customers in the 'new arrivals' segment?","completion":" The average spend per transaction for customers in the 'new arrivals' segment is 45 USD."}
+{"prompt":"How many items from the 'outdoor' category were purchased as gifts last quarter?","completion":" Last quarter, 600 items from the 'outdoor' category were purchased as gifts."}
+{"prompt":"Which day has the lowest number of customer support inquiries?","completion":" The day with the lowest number of customer support inquiries is Sunday."}
+{"prompt":"What is the average time from order placement to shipping for expedited orders?","completion":" The average time from order placement to shipping for expedited orders is 1 hour."}
+{"prompt":"How many customers use the 'save for later' option before purchasing?","completion":" Approximately 1,000 customers use the 'save for later' option before purchasing."}
+{"prompt":"Which product had the highest volume of international sales in October?","completion":" The product with the highest volume of international sales in October was 'Travel Backpack'."}
+{"prompt":"How many items in the 'kitchenware' category were purchased during Black Friday?","completion":" During Black Friday, 2,000 items in the 'kitchenware' category were purchased."}
+{"prompt":"What is the most popular search term for products under 20 USD?","completion":" The most popular search term for products under 20 USD is 'phone case'."}
+{"prompt":"How many customers have purchased both 'organic' and 'non-organic' products?","completion":" Approximately 3,500 customers have purchased both 'organic' and 'non-organic' products."}
